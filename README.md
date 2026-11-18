@@ -1,4 +1,18 @@
-# EN07-Research-Project
+# DISCLAIMER — HOBBYIST RESEARCH
+
+I am an independent hobbyist, not a certified automotive technician, professional engineer, or qualified mechanic. This project documents my personal research, experiments, and modifications to my own vehicle.
+
+Nothing published here should be considered professional automotive, engineering, or safety advice. I do not recommend blindly following any procedures, modifications, measurements, or configurations documented in this project.
+
+All information is provided for educational and reference purposes only, without any guarantee of accuracy, completeness, or suitability for your particular vehicle.
+
+Anyone choosing to use this information is responsible for independently verifying its accuracy, assessing the risks, and ensuring that all work is performed safely and in compliance with applicable laws and regulations.
+
+I accept no responsibility for damage, injury, loss, or other consequences arising from the use or misuse of information published in this project, to the extent permitted by applicable law.
+
+Work on vehicles can be dangerous. When in doubt, consult a qualified professional.
+
+EN07-Research-Project
 Looking into the differences between different varients of the family, and which parts do and dont fit other varients. Primarily for use on my personal 1993 KS4 Sambar currently with a EN07C, but with plans for a built EN07Y
 
 Copyright and Usage
